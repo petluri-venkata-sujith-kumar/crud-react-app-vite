@@ -1,0 +1,26 @@
+{
+  "courses": [
+    {
+      "title": "java",
+      "trainer": "dixith",
+      "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+      "updatedAt": "2024-01-22",
+      "id": "61d4"
+    },
+    {
+      "id": "c128",
+      "title": "html",
+      "trainer": "pooja",
+      "description": "HTML Tutorial ... HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!",
+      "createdAt": "2024-01-11",
+      "updatedAt": ""
+    },
+    {
+      "title": "react",
+      "trainer": "shashi kunal",
+      "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.\n",
+      "updatedAt": "2024-01-22",
+      "id": "7f00"
+    }
+  ]
+}

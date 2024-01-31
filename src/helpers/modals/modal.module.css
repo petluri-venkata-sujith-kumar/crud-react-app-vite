@@ -1,0 +1,15 @@
+.modalContainer{
+    width: 50%;
+    border-radius: 1px solid #eee;
+    height: auto;
+    background-color: #fff;
+    margin:auto;
+    z-index: 20;
+}
+.closeIcon{
+    /* border: 2px solid red; */
+    position: absolute;
+    z-index: 20;
+    top: 150px;
+    left: 550px;
+}
